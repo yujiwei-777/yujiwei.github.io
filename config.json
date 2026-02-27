@@ -20,6 +20,6 @@
     "showPostSource":1,
     "bottomText":"转载请注明出处：于济伟的博客",
     "needComment":1,
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>\n<!-- 新增 Gmeek UI 增强插件 CSS -->\n<link rel='stylesheet' href='https://code.buxiantang.top/GmeekUI/GmeekBaseTheme.css'>\n<!-- 新增 Gmeek UI 增强插件 JS -->\n<script src='https://code.buxiantang.top/GmeekUI/GmeekCustomizeCss.js'></script>",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script><link rel=\'preconnect\' href=\'https://code.buxiantang.top\'><link rel=\'preconnect\' href=\'https://blog.meekdai.com\'><link rel=\'stylesheet\' href=\'https://code.buxiantang.top/assets/GmeekBaseTheme.css\'><script src=\'https://code.buxiantang.top/assets/GmeekCustomizeCss.js\'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
