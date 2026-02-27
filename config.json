@@ -13,7 +13,7 @@
     "yearColorList":["#E64398", "#165DFF", "#36AD47"],
     "i18n":"CN",
     "UTC":8,
-    "themeMode":"auto", // 适配插件的auto主题模式
+    "themeMode":"auto", 
     "dayTheme":"light",
     "nightTheme":"dark",
     "urlMode":"pinyin",
