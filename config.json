@@ -13,13 +13,13 @@
     "yearColorList":["#E64398", "#165DFF", "#36AD47"],
     "i18n":"CN",
     "UTC":8,
-    "themeMode":"auto", 
+    "themeMode":"auto",
     "dayTheme":"light",
     "nightTheme":"dark",
     "urlMode":"pinyin",
     "showPostSource":1,
-    "bottomText":"© 2024 于济伟的博客 | 转载请注明原文链接",
+    "bottomText":"© 2026 于济伟的博客 | 转载请注明原文链接",
     "needComment":1,
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>\n<!-- 预连接优化（解决GPU/加载性能问题） -->\n<link rel='preconnect' href='https://code.buxiantang.top'>\n<link rel='preconnect' href='https://blog.meekdai.com'>\n<!-- 引入UI增强插件（v1.1.0版本，修复标签点击/性能问题） -->\n<link rel='stylesheet' href='https://code.buxiantang.top/assets/GmeekBaseTheme.css'>",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>\n<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>\n<script src='https://blog.meekdai.com/Gmeek/plugins/scrollToTop.js'></script>\n<!-- UI增强JS后加载（避免DOM重构导致基础插件失效） -->\n<script src='https://code.buxiantang.top/assets/GmeekCustomizeCss.js'></script>"
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script><link rel='preconnect' href='https://code.buxiantang.top'><link rel='preconnect' href='https://blog.meekdai.com'><link rel='stylesheet' href='https://code.buxiantang.top/assets/GmeekBaseTheme.css'>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/scrollToTop.js'></script><script src='https://code.buxiantang.top/assets/GmeekCustomizeCss.js'></script>"
 }
